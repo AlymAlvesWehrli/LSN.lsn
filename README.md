@@ -13,15 +13,3 @@ The idea of this language is to allow to occupy less space when writing a code a
 <body>
     </body>
  </html>
- 
-
- 1- Soliction code lsn:
- >lsn<
- >p(wello wold).
- 
- 
->indication of the type of code used<
->Start line code
-p = print or similars comands.
-() = informação, captaxion our others.
-. = end code, whatever is out will not be compiled or read.
